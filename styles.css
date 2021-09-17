@@ -1,0 +1,9 @@
+body {
+	background-color: teal;
+	color: white;
+}
+
+img {
+	width: 400px;
+	box-shadow: 5px 5px 5px rgba(0,0,0, .5);
+}
